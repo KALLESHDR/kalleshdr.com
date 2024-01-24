@@ -101,7 +101,6 @@ body {
   color: var(--color-text);
   margin-top: var(--height-header);
   line-height: 1.2;
-  overflow: hidden;
 }
 
 /* Reusable CSS
